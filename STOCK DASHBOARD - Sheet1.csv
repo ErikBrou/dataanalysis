@@ -1,0 +1,12 @@
+Ticker,Name,250 Day Price Chart,Price,Change,Change Pct,5 Day Price,10 Day Price,5 Day %,10 Day %,Market Cap,P/E
+AAPL,Apple Inc,#N/A,$164.87,-1.78,-1.1%,#N/A,#N/A,#N/A,#N/A,"$2,609B",28 x
+AMZN,"Amazon.com, Inc.",#N/A,$106.10,+2.29,+2.2%,#N/A,#N/A,#N/A,#N/A,"$1,088B",-
+DAL,"Delta Air Lines, Inc.",#N/A,$34.34,-0.30,-0.9%,#N/A,#N/A,#N/A,#N/A,$22B,12 x
+TSLA,Tesla Inc,#N/A,$163.28,+0.29,+0.2%,#N/A,#N/A,#N/A,#N/A,$512B,48 x
+GOOGL,Alphabet Inc Class A,#N/A,$105.44,+0.14,+0.1%,#N/A,#N/A,#N/A,#N/A,"$1,355B",23 x
+COIN,Coinbase Global Inc,#N/A,$59.98,-0.52,-0.9%,#N/A,#N/A,#N/A,#N/A,$14B,-
+TGT,Target Corp,#N/A,$161.92,+1.81,+1.1%,#N/A,#N/A,#N/A,#N/A,$75B,27 x
+F,Ford Motor Co,#N/A,$11.74,-0.14,-1.1%,#N/A,#N/A,#N/A,#N/A,$47B,-
+GM,General Motors Company,#N/A,$33.19,-0.35,-1.0%,#N/A,#N/A,#N/A,#N/A,$46B,5 x
+AMD,"Advanced Micro Devices, Inc.",#N/A,$88.75,-1.36,-1.5%,#N/A,#N/A,#N/A,#N/A,$143B,106 x
+MSFT,Microsoft Corp,#N/A,$284.10,-2.01,-0.7%,#N/A,#N/A,#N/A,#N/A,"$2,114B",32 x
